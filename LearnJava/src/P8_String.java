@@ -27,7 +27,6 @@ public class P8_String {
 		obj.palindromeOrNot(s1);
 		obj.reverseOfAString(s1);
 		obj.stringEqualOrNot(s1, s2);
-
 	}
 
 }
